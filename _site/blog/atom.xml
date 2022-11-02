@@ -4,7 +4,7 @@
  <title>Hank Quinlan's Blog</title>
  <link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
  <link href="http://hankquinlan.github.io/blog"/>
- <updated>2022-11-02T15:51:51-07:00</updated>
+ <updated>2022-11-02T16:31:00-07:00</updated>
  <id>http://hankquinlan.github.io/blog</id>
  <author>
    <name>Hank Quinlan</name>
@@ -18,6 +18,77 @@
    <updated>2022-11-02T00:00:00-07:00</updated>
    <id>http://hankquinlan.github.io//blog/2022/11/02/math-program</id>
    <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Math Neuroscience and Education Program at the UCSF Dyslexia Center</title>
+   <link href="http://hankquinlan.github.io/blog/2022/11/01/math-program"/>
+   <updated>2022-11-01T00:00:00-07:00</updated>
+   <id>http://hankquinlan.github.io//blog/2022/11/01/math-program</id>
+   <content type="html">&lt;h1 id=&quot;math-cognition-ucsf&quot;&gt;Math Cognition UCSF&lt;/h1&gt;
+
+&lt;p&gt;We are a multidisciplinary team studying the neural architecture and dynamics of human intelligence, with a focus on cognitive symbolic systems such as &lt;strong&gt;mathematics&lt;/strong&gt; and &lt;strong&gt;language&lt;/strong&gt;. Our research program aims at understanding how these systems develop and decline, and how we can help.&lt;/p&gt;
+
+&lt;p&gt;We combine machine learning &lt;strong&gt;computational modeling&lt;/strong&gt;, &lt;strong&gt;electrophysiological recordings&lt;/strong&gt; (intracranial EEG, MEG), &lt;strong&gt;neuroimaging&lt;/strong&gt; (fMRI), &lt;strong&gt;continuous behavioral measures&lt;/strong&gt; (trajectory-tracking), and &lt;strong&gt;neuropsychology&lt;/strong&gt; to study the processing stages and representational codes underlying cognitive operations. Complementarily, we use intracranial electrical stimulation to modulate brain activity and behavior.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Our core members are:&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scholar.google.com/citations?user=XVsftdsAAAAJ&amp;amp;hl&quot;&gt;Pedro Pinheiro-Chagas, PhD&lt;/a&gt; - PI Assistant Professor UCSF&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://memory.ucsf.edu/people/bettina-pedemonte&quot;&gt;Betinna Pedemonte, PhD&lt;/a&gt; - Math Specialist UCSF&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://profiles.ucsf.edu/margo.kersey&quot;&gt;Margo Kersey&lt;/a&gt; - aCRC UCSF&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://profiles.ucsf.edu/rian.bogley&quot;&gt;Rian Bogley&lt;/a&gt; - Database Architect UCSF&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are part of UCSF Neurology (Memory and Aging Center) and Neurosurgery departments and we collaborate with several labs and initiatives:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dyslexia.ucsf.edu/&quot;&gt;UCSF Dyslexia Center&lt;/a&gt; (UCSF)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://albalab.ucsf.edu/&quot;&gt;ALBA Lab&lt;/a&gt; (UCSF)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dyslexia.ucsf.edu/multitudes-partners&quot;&gt;Multitudes&lt;/a&gt; (UCSF)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://changlab.ucsf.edu/&quot;&gt;Chang Lab&lt;/a&gt; (UCSF)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://canlab.ucsf.edu/&quot;&gt;CAN Lab&lt;/a&gt; (UCSF)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://colala.berkeley.edu/&quot;&gt;Computational and Language Lab&lt;/a&gt; (UC Berkeley)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://noce-lab.github.io/&quot;&gt;NoCe Lab&lt;/a&gt; (Université de Genève)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our current projects are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Logical primitives of symbolic reasoning&lt;/li&gt;
+  &lt;li&gt;Neurocognitive mechanisms underlying the co-occurence of Dyslexia and Dyscalculia&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://neurocausal.github.io/&quot;&gt;NeuroCausal - an open data sharing and metadata synthesis platform for clinical data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A machine learning framework for classifying and predicting neurodevelopmental disorders&lt;/li&gt;
+  &lt;li&gt;Behavioral and neurological signatures of math deficits in primary progressive aphasia&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scholar.google.com/citations?view_op=view_citation&amp;amp;hl=en&amp;amp;user=XVsftdsAAAAJ&amp;amp;sortby=pubdate&amp;amp;citation_for_view=XVsftdsAAAAJ:O3NaXMp0MMsC&quot;&gt;A novel approach to subtypes of developmental dyscalculia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Neurophysiological basis of math anxiety&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are active participants of initiatives to promote &lt;strong&gt;open, inclusive, and reproducible science&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.neuron.2021.04.001&quot;&gt;Brainhack: Developing a culture of open, inclusive, community-driven neuroscience&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.neuron.2021.06.002&quot;&gt;Gender bias in academia: A lifetime problem that needs solutions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Because of the interdisciplinary nature of our research program, we have developed and improved methods to measure behavior and model brain activity. All methods are &lt;strong&gt;open source and publicly available&lt;/strong&gt;, notably:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://trajtracker.com/&quot;&gt;Trajectory tracking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pinheirochagas/lbcn_preproc&quot;&gt;iEEG preprocessing and analysis toolbox&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pinheirochagas/Calc_MEG&quot;&gt;Methods for MEG multivariate decoding&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pinheirochagas/lbcn_nwb&quot;&gt;Toolbox to convert iEEG data into the Neurodata Without Borders data standard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--
+
+https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+--&gt;
+
 </content>
  </entry>
  
