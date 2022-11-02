@@ -4,7 +4,11 @@
  <title>Hank Quinlan's Blog</title>
  <link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
  <link href="http://hankquinlan.github.io/blog"/>
+<<<<<<< HEAD
  <updated>2022-11-02T16:31:00-07:00</updated>
+=======
+ <updated>2022-11-02T16:35:30-07:00</updated>
+>>>>>>> 7e169665200e886a94c8dbc01df3f36a97d3207d
  <id>http://hankquinlan.github.io/blog</id>
  <author>
    <name>Hank Quinlan</name>
@@ -23,6 +27,7 @@
  
  <entry>
    <title>Math Neuroscience and Education Program at the UCSF Dyslexia Center</title>
+<<<<<<< HEAD
    <link href="http://hankquinlan.github.io/blog/2022/11/01/math-program"/>
    <updated>2022-11-01T00:00:00-07:00</updated>
    <id>http://hankquinlan.github.io//blog/2022/11/01/math-program</id>
@@ -89,6 +94,12 @@ https://docs.github.com/github/writing-on-github/getting-started-with-writing-an
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 --&gt;
 
+=======
+   <link href="http://hankquinlan.github.io/blog/2022/11/02/math-program-copy"/>
+   <updated>2022-11-02T00:00:00-07:00</updated>
+   <id>http://hankquinlan.github.io//blog/2022/11/02/math-program copy</id>
+   <content type="html">
+>>>>>>> 7e169665200e886a94c8dbc01df3f36a97d3207d
 </content>
  </entry>
  
