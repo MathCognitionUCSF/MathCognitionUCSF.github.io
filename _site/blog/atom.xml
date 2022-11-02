@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Hank Quinlan's Blog</title>
+ <link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
+ <link href="http://hankquinlan.github.io/blog"/>
+ <updated>2022-11-02T15:51:51-07:00</updated>
+ <id>http://hankquinlan.github.io/blog</id>
+ <author>
+   <name>Hank Quinlan</name>
+   <email>hankquinlanhub@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Math Neuroscience and Education Program at the UCSF Dyslexia Center</title>
+   <link href="http://hankquinlan.github.io/blog/2022/11/02/math-program"/>
+   <updated>2022-11-02T00:00:00-07:00</updated>
+   <id>http://hankquinlan.github.io//blog/2022/11/02/math-program</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ 
+</feed>
