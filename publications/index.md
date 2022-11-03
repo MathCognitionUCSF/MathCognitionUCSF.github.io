@@ -34,4 +34,8 @@ title: "Publications"
 * [Brain Mechanisms of Arithmetic: A Crucial Role for Ventral Temporal Cortex](pinheiro-chagas_ieeg_calc.pdf)
 * [Neuronal Population Responses in the Human Ventral Temporal and Lateral Parietal Cortex During Arithmetic Processing with Digits and Number Words](nihms-991094.pdf)
 * [Comparing magnitudes across dimensions: a univariate and multivariate approach](borghesani_prni_2016.pdf)
+
+#### Bridging Neuroscience and Education
+* [A novel approach to subtypes of developmental dyscalculia](DSB_SubtypesDyscalculia.pdf)
 * [A Translational Framework of Educational Neuroscience in Learning Disorders](fnint-12-00025.pdf)
+
