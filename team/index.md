@@ -3,7 +3,6 @@ layout: default
 title: Math Cognition UCSF
 ---
 
-* Our core members are:
 * [Pedro Pinheiro-Chagas, PhD](https://scholar.google.com/citations?user=XVsftdsAAAAJ&hl) - PI Assistant Professor
 * [Betinna Pedemonte, PhD](https://memory.ucsf.edu/people/bettina-pedemonte) - Full Specialist in Math Education
 * [Mariah Pospisil, MEd](https://memory.ucsf.edu/people/mariah-pospisil) - Learning Interventions Applied Research Manager
