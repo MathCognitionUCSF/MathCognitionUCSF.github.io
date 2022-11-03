@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: publications
 title: "Math Neuroscience and Education Program at the UCSF Dyslexia Center"
 date: 2022-11-01
 ---
