@@ -9,15 +9,40 @@ Developmental dyscalculia is a specific learning difficulty affecting the acquis
 * Arithmetic facts (e.g. the multiplication table) 
 * Geometrical reasoning (e.g. comparing the angles of a triangle). 
 
-Current research suggest that learning difficulties rarely occur in isolation and are therefore better conceptualized as a collection of phenotypes that involve a variety of academic domains. Recent studies have demonstrated that 40-60% of children with **dyslexia** also present with math difficulties. 
-
-### Explore the most active brain regions for elementary math 
+#### Explore the most active brain regions for elementary math 
 <div>
   <iframe id="inlineFrameExample"
       title="Inline Frame Example"
       width="2000"
       height="600"
       src="surface_math.html"
+      frameBorder="0">
+  </iframe>
+</div>
+
+Current research suggest that learning difficulties rarely occur in isolation and are therefore better conceptualized as a collection of phenotypes that involve a variety of academic domains. Recent studies have demonstrated that 40-60% of children with **dyslexia** also present with math difficulties. 
+
+#### Explore how the math(red) and reading (green) brain networks overlap (red) on the left hemisphere
+<div>
+  <iframe id="inlineFrameExample"
+      title="Inline Frame Example"
+      width="2000"
+      height="600"
+      src="surface_math_reading_left.html"
+      frameBorder="0">
+  </iframe>
+</div>
+
+The left hemisphere contains many more regions dedicated to reading!
+
+#### Compare it the right hemisphere
+(This is the middle of the brain, try moving it around!) 
+<div>
+  <iframe id="inlineFrameExample"
+      title="Inline Frame Example"
+      width="2000"
+      height="600"
+      src="surface_math_reading_right.html"
       frameBorder="0">
   </iframe>
 </div>
