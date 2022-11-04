@@ -11,6 +11,19 @@ Developmental dyscalculia is a specific learning difficulty affecting the acquis
 
 Current research suggest that learning difficulties rarely occur in isolation and are therefore better conceptualized as a collection of phenotypes that involve a variety of academic domains. Recent studies have demonstrated that 40-60% of children with **dyslexia** also present with math difficulties. 
 
+### Explore the most active brain regions for elementary math 
+<div>
+  <iframe id="inlineFrameExample"
+      title="Inline Frame Example"
+      width="2000"
+      height="600"
+      src="surface_math.html"
+      frameBorder="0">
+  </iframe>
+</div>
+
+This data an automated meta-analysis created with [**NeuroSynth**](https://neurosynth.org/analyses/terms/arithmetic/), based on of 96 fMRI studies 
+
 For more information about the science of dyscalculia, see our list of [**Publications**](/publications) and below 
 **Prof. Pinheiro-Chagas'** slides for the event **Neuroscience in Action** on Sep 30th 2022 
 

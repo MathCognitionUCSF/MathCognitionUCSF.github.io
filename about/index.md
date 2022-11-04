@@ -3,7 +3,6 @@ layout: default
 title: Math Cognition UCSF
 ---
 
-
 # Math Cognition UCSF 
 
 We are a [**multidisciplinary team**](/team) studying the neural architecture and dynamics of human intelligence, with a focus on cognitive symbolic systems such as **mathematics** and **language**. Our research program aims at understanding how these systems develop and decline, and how we can help.
@@ -64,6 +63,5 @@ https://docs.github.com/github/writing-on-github/getting-started-with-writing-an
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
 
 
