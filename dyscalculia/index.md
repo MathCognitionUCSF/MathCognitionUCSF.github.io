@@ -15,7 +15,9 @@ Children with dyscalculia have these difficulties despite adequate intellectual 
 * The **annual cost of low numeracy** in the **UK** is **>£2.4 billion**. 
 * **Improvement** in 0.5 standard deviation in **math performance increases GDP per capita** of 0.87% 
 
-## Brain networks for math and reading
+Although low numeracy is estimated to have similar or potentially higher costs as low literacy to indiduals and society, dyscalculia is much less understood compared to dyslexia. See below the disparity of the number of publications indexed on [PubMed](https://pubmed.ncbi.nlm.nih.gov/) over time:
+
+<img src="dys_year.png" width="800">
 
 #### Explore the most active brain regions for elementary math 
 <div>
@@ -27,13 +29,14 @@ Children with dyscalculia have these difficulties despite adequate intellectual 
       frameBorder="0">
   </iframe>
 </div>
-*(This data an automated meta-analysis created with [**NeuroSynth**](https://neurosynth.org/analyses/terms/arithmetic/), based on of 96 fMRI studies)*
+*(This data an automated meta-analysis created with [**NeuroSynth**](https://neurosynth.org/analyses/terms/arithmetic/), based on of [96 fMRI studies](https://neurosynth.org/analyses/terms/arithmetic/#studies))*
 
 ### Co-occurence between math and reading difficultites
 
 Current research suggest that learning difficulties rarely occur in isolation and are therefore better conceptualized as a collection of phenotypes that involve a variety of academic domains. Recent studies have demonstrated that 40-60% of children with **dyslexia** also present with math difficulties. 
 
 #### Explore how the math(blue) and reading (green) brain networks overlap (red) on the left hemisphere
+
 <div>
   <iframe id="inlineFrameExample"
       title="Inline Frame Example"
@@ -68,4 +71,4 @@ Current research suggest that learning difficulties rarely occur in isolation an
 For more information about the science of dyscalculia, see our list of [**Publications**](/publications) and below 
 **Prof. Pinheiro-Chagas'** slides for the event **Neuroscience in Action** on Sep 30th 2022 
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/dUqlwmsnU9En9J?hostedIn=slideshare&page=upload" width="790" height="450" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/dUqlwmsnU9En9J?hostedIn=slideshare&page=upload" width="900" height="550" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
