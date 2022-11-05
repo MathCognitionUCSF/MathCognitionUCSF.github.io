@@ -34,7 +34,7 @@ In addition to elementary math abilities, the UCSF-DSB also targets:
 ### Develop a simplified UCSF web-based math battery to identify children at risk for math learning differences prior to elementary school.  
 
 
-### Publications:
+### Key references that guided the development of the UCSF-DSB:
 
 * [The Mathematical Brain](butterworth_1999.pdf)
 * [The Number Sense: How the Mind Creates Mathematics](dehaene_1997.pdf)
