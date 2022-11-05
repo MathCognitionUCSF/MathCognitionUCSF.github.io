@@ -28,3 +28,10 @@ ul.posts li { list-style: none; }
 .cv address, .cv .download { font-family: 'Computer Modern Serif', serif; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+
+@media only screen and (max-width: 768px) {
+    body {
+      width: 95%;
+      font-size: 2em
+    }
+  }
