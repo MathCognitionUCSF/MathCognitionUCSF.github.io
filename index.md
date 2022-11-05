@@ -12,7 +12,7 @@ We are a new multidisciplinary [**team**](/team) at UCSF studying the typical an
 * Discover the neural basis of different subtypes of math differences. 
 * Develop neuroscience-based interventions specifically tailored to individual profiles.
 
-<img src="assets/math_program.png" width="1000">
+<img src="assets/math_program.png" width="800">
 
 We are partnering with the [UCSF Dyslexia Center](https://dyslexia.ucsf.edu/) to create a new [**Math Neuroscience and Education Program**](/math_program). This is important, because current research shows that 40-60% of children with dyslexia also present with math difficulties. Likewise, 40-60% of children with [**dyscalculia**](/dyscalculia/) also have reading challenges.
 
