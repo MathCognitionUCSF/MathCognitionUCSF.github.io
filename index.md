@@ -19,7 +19,7 @@ We are a new multidisciplinary [**team**](/team) at UCSF studying the typical an
 </picture>
 
 <picture>
-    <source srcset="assets/math_program_fig_vertical.png" media="(max-width: 720px)" width="300">
+    <source srcset="assets/math_program_fig_vertical.png" media="(max-width: 720px)" width="360">
     <img src="images/logo.png" onerror="this.style.display='none'">
 </picture>
 
