@@ -32,6 +32,6 @@ ul.posts li { list-style: none; }
 @media only screen and (max-width: 768px) {
     body {
       width: 100%;
-      font-size: 5em
+      font-size: 2em
     }
   }
