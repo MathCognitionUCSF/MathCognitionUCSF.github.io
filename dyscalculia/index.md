@@ -71,4 +71,4 @@ Current research suggest that learning difficulties rarely occur in isolation an
 For more information about the science of dyscalculia, see our list of [**Publications**](/publications) and below 
 **Prof. Pinheiro-Chagas'** slides for the event **Neuroscience in Action** on Sep 30th 2022 
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/dUqlwmsnU9En9J?hostedIn=slideshare&page=upload" width="900" height="550" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/dUqlwmsnU9En9J?hostedIn=slideshare&page=upload" width="900" height="500" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
