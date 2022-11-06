@@ -15,12 +15,12 @@ We are a new multidisciplinary [**team**](/team) at UCSF studying the typical an
 
 <picture>
     <source srcset="assets/math_program.png" media="(min-width: 720px)" width="800"> 
-    <img src="images/logo.png">
+    <img src="images/logo.png" onerror="this.style.display='none'">
 </picture>
 
 <picture>
-    <source srcset="assets/math_program_fig_vertical.png" media="(max-width: 720px)" width="200">
-    <img src="images/logo.png">
+    <source srcset="assets/math_program_fig_vertical.png" media="(max-width: 720px)" width="300">
+    <img src="images/logo.png" onerror="this.style.display='none'">
 </picture>
 
 We are partnering with the [UCSF Dyslexia Center](https://dyslexia.ucsf.edu/) to create a new [**Math Neuroscience and Education Program**](/math_program). This is important, because current research shows that 40-60% of children with dyslexia also present with math difficulties. Likewise, 40-60% of children with [**dyscalculia**](/dyscalculia/) also have reading challenges.
