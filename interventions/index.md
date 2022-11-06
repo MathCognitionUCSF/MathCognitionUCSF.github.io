@@ -15,7 +15,7 @@ Our team is developing targeted, mathematical interventions based on the dyscalc
 * **Arithmetic fact retrieval**
 * **Geometrical/Visuospatial abilities**
 
-Our firs intervention is going to focus on ** arithmetic fact retrieval and reconstruction** based on **multisensory integration**. The goal is both boost children learning of the multiplication table as well as to help them reconstruct the multiplication facts using addition and subtraction.
+Our firs intervention is going to focus on **arithmetic fact retrieval and reconstruction** based on **multisensory integration**. The goal is both boost children learning of the multiplication table as well as to help them reconstruct the multiplication facts using addition and subtraction.
 
 Beginning with addition and subtraction facts within 20, we are developing a sequence of lessons designed to be delivered by trained mathematics educators or interventionists over a period of 12 weeks. 
 
@@ -24,5 +24,3 @@ Utilizing the UCSF-DSB as a pre- and post-test measure, we will examine the effi
 See below examples of the material that we are currently developing:
 
 <img src="math_interventions.png" width="300">
-
-
