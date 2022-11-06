@@ -22,7 +22,7 @@ We have already piloted the UCSF-DSB in over **250** students from grades 2 to 8
 
 ### See below example items from the subtests of the UCSF-DSB:
 
-<img src="math_battery2_03.png" width="1000">
+<img src="math_battery.png" width="900">
 
 In addition to elementary math abilities, the UCSF-DSB also targets:
 
