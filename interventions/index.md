@@ -23,4 +23,4 @@ Utilizing the UCSF-DSB as a pre- and post-test measure, we will examine the effi
 
 See below examples of the material that we are currently developing:
 
-<img src="math_interventions.png" width="100" class="center">
+<img src="math_interventions-01.png" width="100" class="center">
