@@ -11,7 +11,7 @@ There is currently no consensus about the different subtypes of math learning di
 Based on extensive neuroscientific literature (see publications below) that has identified partially dissociable brain networks for different math domains, we created the **The UCSF Dyscalculia Subtyping Battery (DSB)**. 
 
 
-We have already piloted the UCSF-DSB in over **250** students from grades 2 to 8. Our results demonstrate that the UCSF-DSB can reliable identify four subtypes of math learning differences:
+We have already piloted the UCSF-DSB in over **250** students from grades 2 to 8. Our results demonstrate that the UCSF-DSB can reliably identify four subtypes of math learning differences:
 
 * **Number processing**
 * **Arithmetic procedures**
