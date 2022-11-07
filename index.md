@@ -13,7 +13,7 @@ We are a new multidisciplinary [**team**](/team) at UCSF studying the typical an
 * Develop neuroscience-based interventions specifically tailored to individual profiles.
 
 
-<img src="assets/math_program_fig.png" width="1200" class="center">
+<img src="assets/math_program_fig.png" width="720" class="center">
 
 <!--
 <picture>
