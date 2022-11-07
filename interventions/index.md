@@ -4,7 +4,7 @@ title: "Math interventions"
 ---
 ## Math interventions
 
-As with the development of reading skills, students with dyscalculia need tailored instruction to acquire fundamental mathematical knowledge and skills. 
+As with the development of reading skills in those with dyslexia, students with math learning differences require tailored instruction to acquire fundamental mathematical skills. 
 
 Students also deserve to feel the self-confidence and sense of efficacy that comes with learning these critical skills. 
 
