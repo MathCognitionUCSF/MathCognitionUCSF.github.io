@@ -30,7 +30,7 @@ Although low numeracy is estimated to have similar or potentially higher costs a
       class="center">
   </iframe>
 </div>
-*(This data an automated meta-analysis created with [**NeuroSynth**](https://neurosynth.org/analyses/terms/arithmetic/), based on of [96 fMRI studies](https://neurosynth.org/analyses/terms/arithmetic/#studies))*
+*(This data is an automated meta-analysis created with [**NeuroSynth**](https://neurosynth.org/analyses/terms/arithmetic/), based on of [96 fMRI studies](https://neurosynth.org/analyses/terms/arithmetic/#studies))*
 
 ### Co-occurence between math and reading difficultites
 
