@@ -17,7 +17,7 @@ Children with dyscalculia have these difficulties despite adequate intellectual 
 
 Although low numeracy is estimated to have similar or potentially higher costs as low literacy to indiduals and society, dyscalculia is much less understood compared to dyslexia. See below the disparity of the number of publications indexed on [PubMed](https://pubmed.ncbi.nlm.nih.gov/) over time:
 
-<img src="dys_year.png" width="800">
+<img src="dys_year.png" width="800" class="center">
 
 #### Explore the most active brain regions for elementary math 
 <div>
@@ -26,7 +26,8 @@ Although low numeracy is estimated to have similar or potentially higher costs a
       width="2000"
       height="600"
       src="surface_math.html"
-      frameBorder="0">
+      frameBorder="0"
+      class="center">
   </iframe>
 </div>
 *(This data an automated meta-analysis created with [**NeuroSynth**](https://neurosynth.org/analyses/terms/arithmetic/), based on of [96 fMRI studies](https://neurosynth.org/analyses/terms/arithmetic/#studies))*
@@ -43,7 +44,8 @@ Current research suggest that learning difficulties rarely occur in isolation an
       width="2000"
       height="600"
       src="surface_math_reading_left.html"
-      frameBorder="0">
+      frameBorder="0"
+      class="center">
   </iframe>
 </div>
 
@@ -58,7 +60,8 @@ Current research suggest that learning difficulties rarely occur in isolation an
       width="2000"
       height="600"
       src="surface_math_reading_right.html"
-      frameBorder="0">
+      frameBorder="0"
+      class="center">
   </iframe>
 </div>
 
@@ -71,4 +74,4 @@ Current research suggest that learning difficulties rarely occur in isolation an
 For more information about the science of dyscalculia, see our list of [**Publications**](/publications) and below 
 **Prof. Pinheiro-Chagas'** slides for the event **Neuroscience in Action** on Sep 30th 2022 
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/dUqlwmsnU9En9J?hostedIn=slideshare&page=upload" width="900" height="500" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/dUqlwmsnU9En9J?hostedIn=slideshare&page=upload" width="900" height="500" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="center"></iframe>

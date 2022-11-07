@@ -13,6 +13,9 @@ We are a new multidisciplinary [**team**](/team) at UCSF studying the typical an
 * Develop neuroscience-based interventions specifically tailored to individual profiles.
 
 
+<img src="assets/math_program_fig.png" width="1200" class="center">
+
+<!--
 <picture>
     <source srcset="assets/math_program.png" media="(min-width: 720px)" width="800"> 
     <img src="images/logo.png" onerror="this.style.display='none'">
@@ -21,7 +24,7 @@ We are a new multidisciplinary [**team**](/team) at UCSF studying the typical an
 <picture>
     <source srcset="assets/math_program_fig_vertical.png" media="(max-width: 720px)" width="360">
     <img src="images/logo.png" onerror="this.style.display='none'">
-</picture>
+</picture> -->
 
 We are partnering with the [UCSF Dyslexia Center](https://dyslexia.ucsf.edu/) to create a new [**Math Neuroscience and Education Program**](/math_program). This is important, because current research shows that 40-60% of children with dyslexia also present with math difficulties. Likewise, 40-60% of children with [**dyscalculia**](/dyscalculia/) also have reading challenges.
 
