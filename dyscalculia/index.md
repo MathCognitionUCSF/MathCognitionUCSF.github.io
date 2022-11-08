@@ -5,7 +5,7 @@ title: "What is dyscalculia?"
 ## What is dyscalculia? 
 **Developmental dyscalculia** is a specific learning difficulty affecting the acquisition of elementary mathematical skills, such as:
 * **Quantity processing** (e.g. estimating the number of spectators in a stadium) 
-* **Calculation** (e.g. solving '53-14=39' without a paper)
+* **Calculation** (e.g. solving '53-14=39' without paper)
 * **Arithmetic facts** (e.g. the multiplication table) 
 * **Geometrical reasoning** (e.g. comparing the angles of a triangle). 
 
