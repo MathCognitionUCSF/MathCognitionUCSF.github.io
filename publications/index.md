@@ -2,14 +2,14 @@
 layout: default
 title: "Publications"
 ---
-## Our science
+## Our Science
 
-#### Early predictors of math abilities
+#### Early Predictors of Math Abilities
 
 * [Preschool language and visuospatial skills respectively predict multiplication and addition/subtraction skills in middle school children](guez_2022.pdf)
 * [School Achievement Test: Normative data for a representative sample of elementary school children](2012-35338-005.pdf)
 
-#### Typical and atypical development of math abilities
+#### Typical and Atypical Development of Math Abilities
 
 * [A hand full of numbers: a role for offloading in artithmetics learning?](fpsyg-02-00368.pdf)
 * [Response: Commentary: The Developmental Trajectory of the Operational Momentum Effect](fpsyg-10-00160.pdf)
@@ -19,15 +19,15 @@ title: "Publications"
 * [The Developmental Trajectory of the Operational Momentum Effect](fpsyg-09-01062.pdf)
 * [Contributions from specific and general factors to unique deficits: two cases of mathematics learning difficulties](fpsyg-05-00102.pdf)
 
-#### Math anxiety
+#### Math Anxiety
 
 * [Math Self-Assessment, but Not Negative Feelings, Predicts Mathematics Performance of Elementary School Children](982672.pdf)
 
-#### Genetics of dyscalculia
+#### Genetics of Dyscalculia
 
 * [Are 22q11.2 Distal Deletions Associated with Math Difficulties?](carvalho_2014.pdf)
 
-#### Neurocognitive mechanisms of elementary math
+#### Neurocognitive Mechanisms of Elementary Math
 
 * [Track It to Crack It: Dissecting Processing Stages with Finger Tracking](dotan_pinheirochagas_alroumi_dehaene_tics.pdf)
 * [Decoding the processing stages of mental arithmetic with magnetoencephalography](pinheiro-chagas_dec_calc_meg.pdf)

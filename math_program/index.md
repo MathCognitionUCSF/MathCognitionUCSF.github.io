@@ -20,7 +20,7 @@ Traditionally, research in this domain has been limited to a small number of spe
 * **Emotional** (general anxiety, math anxiety and depression questionnaires)
 
 ### What do we need to accomplish our goals? 
-We plan to create a variety of technological products that can be deployed in large-scale and combined with other initiatives that collaborate with the UCSF Dyslexia Center, namely: Multitudes and Bench to School. 
-* A web-based assessment platform with child-friendly gamified battery of tests to investigate elementary math abilities. This goal of this platform is to identify children at risk for dyscalculia, to characterize the individual math difficulties profiles and to measure the efficacy of interventions. 
-* A Math Intervention APP based on neuroscientific findings from our Program.
-* Workshops to train math teachers about the neural basis of math abilities, as well as how to use the web-based assessment platform and Math Intervention APP.
+We plan to create a variety of technological products that can be deployed on a large scale and combined with additional collaborative initiatives with the UCSF Dyslexia Center: 
+* **Multitudes**: A web-based assessment platform with child-friendly gamified battery of tests to investigate elementary math abilities. This goal of this platform is to identify children at risk for dyscalculia, to characterize the individual math difficulties profiles and to measure the efficacy of interventions. 
+* **Bench to School**: A Math Intervention APP based on neuroscientific findings from our Program.
+* **Math Teacher Workshops**: Train math teachers about the neural basis of math abilities, as well as how to use the web-based assessment platform and Math Intervention APP.

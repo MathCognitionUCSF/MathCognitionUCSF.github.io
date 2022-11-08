@@ -4,12 +4,11 @@ title: "Math assessment"
 ---
 ## UCSF Dyscalculia Subtyping Battery
 
-### How to identify specific math learning differences in children?
+### How can we identify specific math learning differences in children?
 
-There is currently no consensus about the different subtypes of math learning differences in children. Therefore, it is currently very challening for clinicians to diagnose [developmental dyscalculia](/dyscalculia).
+There is currently no consensus about the different subtypes of math learning differences in children. Therefore, currently it is very challening for clinicians to diagnose [developmental dyscalculia](/dyscalculia).
 
 Based on extensive neuroscientific literature (see publications below) that has identified partially dissociable brain networks for different math domains, we created the **The UCSF Dyscalculia Subtyping Battery (DSB)**. 
-
 
 We have already piloted the UCSF-DSB in over **250** students from grades 2 to 8. Our results demonstrate that the UCSF-DSB can reliably identify four subtypes of math learning differences:
 
@@ -20,7 +19,7 @@ We have already piloted the UCSF-DSB in over **250** students from grades 2 to 8
 
 ## [Checkout our preprint here!](https://assets.researchsquare.com/files/rs-1922020/v1_covered.pdf?c=1663797842) 
 
-### See below example items from the subtests of the UCSF-DSB:
+### See example items below from the subtests of the UCSF-DSB:
 
 <img src="math_battery.png" width="900" class="center">
 

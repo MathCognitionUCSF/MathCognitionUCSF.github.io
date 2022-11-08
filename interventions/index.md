@@ -2,7 +2,7 @@
 layout: default
 title: "Math interventions"
 ---
-## Math interventions
+## Math Interventions
 
 As with the development of reading skills in those with dyslexia, students with math learning differences require tailored instruction to acquire fundamental mathematical skills. 
 
@@ -21,6 +21,6 @@ Beginning with addition and subtraction facts within 20, we are developing a 12-
 
 We will assess the efficacy of our targeted interventions by re-administering the UCSF-DSB to the children in the study. 
 
-See below some examples of the materials we are currently developing:
+See some examples below of the materials we are currently developing:
 
 <img src="math_interventions-01.png" width="100" class="center">
