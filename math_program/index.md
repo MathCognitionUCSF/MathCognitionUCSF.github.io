@@ -5,19 +5,19 @@ title: "Math Program"
 ## Math Neuroscience and Education Program<br>UCSF Dyslexia Center
 
 ### Specific Aims 
-In order to better understand, prevent and alleviate math difficulties, we are planning to establish a new Math Neuroscience and Education Program within the UCSF Dyslexia Center. The Program will have three main goals: 
-* Identify children at risk prior to elementary school.
-* Discover the neural basis of different subtypes of dyscalculia. 
+We are establishing a new Math Neuroscience and Education Program within the UCSF Dyslexia Center in order to better understand, prevent, and alleviate math difficulties. This program has three main goals: 
+* Identify children at risk for math learning differences before elementary school.
+* Discover the neural bases of different subtypes of dyscalculia. 
 * Develop neuroscience-based interventions specifically tailored to individual profiles.
 
 ### How?
-Traditionally, research has focused on a small number of specific brain regions and solely on cognitive weaknesses. Our framework, on the other hand, considers the whole brain network organization and aims at discovering the potential cognitive and emotional strengths of children with dyscalculia. We plan to use a multimethodological approach, combining data from:
-* Neuroimaging (functional magnetic resonance imaging - fMRI).
-* Neuropsychology (standardized tests of attention, memory, executive functions).
-* Physiology (heart rate, respiration)
-* Education (standardized tests of academic achievement)
-* Socioeconomics (socioeconomical status, first language)
-* Emotional (general anxiety, math anxiety and depression questionnaires)
+Traditionally, research in this domain has been limited to a small number of specific brain regions and focused only on cognitive weaknesses. On the other hand, our framework encompasses the **whole brain** network and aims to discover the potential **cognitive and emotional strengths** of children with dyscalculia. We plan to use a **multimethodological approach**, combining data from:
+* **Neuroimaging** (functional magnetic resonance imaging - fMRI, white matter tractography - DTI).
+* **Neuropsychology** (standardized tests of attention, memory, executive functions).
+* **Physiology** (heart rate, respiration)
+* **Education** (standardized tests of academic achievement)
+* **Socioeconomics** (socioeconomical status, first language)
+* **Emotional** (general anxiety, math anxiety and depression questionnaires)
 
 ### What do we need to accomplish our goals? 
 We plan to create a variety of technological products that can be deployed in large-scale and combined with other initiatives that collaborate with the UCSF Dyslexia Center, namely: Multitudes and Bench to School. 

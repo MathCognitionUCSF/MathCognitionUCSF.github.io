@@ -4,22 +4,22 @@ title: "What is dyscalculia?"
 ---
 ## What is dyscalculia? 
 **Developmental dyscalculia** is a specific learning difficulty affecting the acquisition of elementary mathematical skills, such as:
-* Quantity processing (e.g. estimating the number of spectators in a stadium) 
-* Calculation (e.g. solving '53-14=39' without a paper)
-* Arithmetic facts (e.g. the multiplication table) 
-* Geometrical reasoning (e.g. comparing the angles of a triangle). 
+* **Quantity processing** (e.g. estimating the number of spectators in a stadium) 
+* **Calculation** (e.g. solving '53-14=39' without a paper)
+* **Arithmetic facts** (e.g. the multiplication table) 
+* **Geometrical reasoning** (e.g. comparing the angles of a triangle). 
 
-Children with dyscalculia have these difficulties despite adequate intellectual abilities, appropriate neurologic development, and schooling opportunities. 
+Children with dyscalculia struggle in these domains, despite otherwise adequate intellectual ability, typical neurological development, and proper schooling.
 
-* **Dyscalculia affects 5-7% of the pupulation**, similarly to dyslexia. 
+* **Dyscalculia affects 5-7% of the population**, similar to dyslexia. 
 * The **annual cost of low numeracy** in the **UK** is **>£2.4 billion**. 
-* **Improvement** in 0.5 standard deviation in **math performance increases GDP per capita** of 0.87% 
+* **Improvement** by half a standard deviation in **math performance increases GDP per capita** by 0.87% 
 
-Although low numeracy is estimated to have similar or potentially higher costs as low literacy to indiduals and society, dyscalculia is much less understood compared to dyslexia. See below the disparity of the number of publications indexed on [PubMed](https://pubmed.ncbi.nlm.nih.gov/) over time:
+Low numeracy is estimated to have similar or potentially higher costs to individuals and society compared to low literacy. Yet, dyscalculia is studied disproportionately less than dyslexia. This disparity is reflected in the number of publications on [PubMed](https://pubmed.ncbi.nlm.nih.gov/) for dyslexia vs. dyscalculia over time. See below:
 
 <img src="dys_year.png" width="800" class="center">
 
-#### Explore the most active brain regions for elementary math 
+#### Explore the most active brain regions for elementary math:
 <div>
   <iframe id="inlineFrameExample"
       title="Inline Frame Example"
@@ -30,13 +30,13 @@ Although low numeracy is estimated to have similar or potentially higher costs a
       class="center">
   </iframe>
 </div>
-*(This data is an automated meta-analysis created with [**NeuroSynth**](https://neurosynth.org/analyses/terms/arithmetic/), based on of [96 fMRI studies](https://neurosynth.org/analyses/terms/arithmetic/#studies))*
+*(This data is an automated meta-analysis created with [**NeuroSynth**](https://neurosynth.org/analyses/terms/arithmetic/), based on [96 fMRI studies](https://neurosynth.org/analyses/terms/arithmetic/#studies))*
 
 ### Co-occurence between math and reading difficultites
 
-Current research suggest that learning difficulties rarely occur in isolation and are therefore better conceptualized as a collection of phenotypes that involve a variety of academic domains. Recent studies have demonstrated that 40-60% of children with **dyslexia** also present with math difficulties. 
+Current research suggests that learning difficulties rarely occur in isolation and are therefore better conceptualized as a collection of phenotypes involving a variety of academic domains. Recent studies have demonstrated that 40-60% of children with **dyslexia** also present with math difficulties. 
 
-#### Explore how the math(blue) and reading (green) brain networks overlap (red) on the left hemisphere
+#### Explore how the <span style="color:blue"> math (blue)</span> and <span style="color:green"> reading (green)</span> brain networks <span style="color:red">overlap (red)</span> in the left hemisphere:
 
 <div>
   <iframe id="inlineFrameExample"
@@ -52,8 +52,8 @@ Current research suggest that learning difficulties rarely occur in isolation an
 
 **Note that left hemisphere contains many more regions dedicated to reading!**
 
-#### Compare it to the right hemisphere
-(This is the middle of the brain, try moving it around!) 
+#### Compare this to the right hemisphere:
+This is the middle of the brain, try moving it around!
 <div>
   <iframe id="inlineFrameExample"
       title="Inline Frame Example"
@@ -62,6 +62,7 @@ Current research suggest that learning difficulties rarely occur in isolation an
       src="surface_math_reading_right.html"
       frameBorder="0"
       class="center">
+      default='right'
   </iframe>
 </div>
 
@@ -71,7 +72,7 @@ Current research suggest that learning difficulties rarely occur in isolation an
 * [The most effective interventions](/interventions)
 
 ### But our multidisciplinary [team](/team) at UCSF is working on it! 
-For more information about the science of dyscalculia, see our list of [**Publications**](/publications) and below 
-**Prof. Pinheiro-Chagas'** slides for the event **Neuroscience in Action** on Sep 30th 2022 
+For more information about the science of dyscalculia, see our list of [**Publications**](/publications) and 
+**Prof. Pinheiro-Chagas'** slides for the event **Neuroscience in Action** on Sep 30th 2022 below:
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/dUqlwmsnU9En9J?hostedIn=slideshare&page=upload" width="900" height="500" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="center"></iframe>
