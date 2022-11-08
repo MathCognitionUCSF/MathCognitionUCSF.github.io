@@ -9,7 +9,7 @@ title: "What is dyscalculia?"
 * **Arithmetic facts** (e.g. the multiplication table) 
 * **Geometrical reasoning** (e.g. comparing the angles of a triangle). 
 
-Children with dyscalculia struggle in these domains, despite otherwise adequate intellectual ability, typical neurological development, and proper schooling.
+Children with dyscalculia struggle in these domains, despite intellectual ability, typical neurological development, and strong educational opportunity.
 
 * **Dyscalculia affects 5-7% of the population**, similar to dyslexia. 
 * The **annual cost of low numeracy** in the **UK** is **>£2.4 billion**. 
