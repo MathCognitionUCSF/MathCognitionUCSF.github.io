@@ -4,7 +4,7 @@ title: Math Cognition UCSF
 ---
 
 
-# Math Cognition UCSF 
+# Math Cognition team at UCSF 
 
 We are a new [**multidisciplinary team**](/team) at UCSF studying the typical and atypical development of math abilities.\
 Our goals:
