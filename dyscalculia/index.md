@@ -11,9 +11,10 @@ title: "What is dyscalculia?"
 
 Children with dyscalculia struggle in these domains, despite intellectual ability, typical neurological development, and strong educational opportunity.
 
-* **Dyscalculia affects 5-7% of the population**, similar to dyslexia. 
-* The **annual cost of low numeracy** in the **UK** is **>£2.4 billion**. 
-* **Improvement** by half a standard deviation in **math performance increases GDP per capita** by 0.87% 
+* [**Dyscalculia affects 3-6% of the population**, similar to dyslexia.](shalev_prevalence.pdf) 
+* [**Low numeracy** is associated with poor financial well-being.](low_numeracy.pdf) 
+* [**Improvement** by one standard deviation in **math proficiency translates into 12% increase in wages**.](https://www.oecd.org/skills/piaac/Country%20note%20-%20United%20States.pdf)
+
 
 Low numeracy is estimated to have similar or potentially higher costs to individuals and society compared to low literacy. Yet, dyscalculia is studied disproportionately less than dyslexia. This disparity is reflected in the number of publications on [PubMed](https://pubmed.ncbi.nlm.nih.gov/) for dyslexia vs. dyscalculia over time. See below:
 
@@ -49,7 +50,7 @@ Current research suggests that learning difficulties rarely occur in isolation a
   </iframe>
 </div>
 
-
+<!--
 **Note that left hemisphere contains many more regions dedicated to reading!**
 
 #### Compare this to the right hemisphere:
@@ -65,6 +66,7 @@ This is the middle of the brain, try moving it around!
       default='right'
   </iframe>
 </div>
+-->
 
 
 ### Currently, there is no consensus about: 

@@ -5,7 +5,7 @@ title: "Math Program"
 ## Math Neuroscience and Education Program<br>UCSF Dyslexia Center
 
 ### Specific Aims 
-We are establishing a new **Math Neuroscience and Education Program** within the UCSF Dyslexia Center in order to better understand, prevent, and alleviate math difficulties. This program has three main goals: 
+We are establishing a new **Math Neuroscience and Education Program** within the [UCSF Dyslexia Center](http://dyslexia.ucsf.edu) in order to better understand, prevent, and alleviate math difficulties. This program has three main goals: 
 * **Identify** children at risk for math learning differences before elementary school.
 * **Discover** the neural bases of different subtypes of dyscalculia. 
 * **Develop** neuroscience-based interventions specifically tailored to individual profiles.
