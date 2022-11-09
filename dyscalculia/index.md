@@ -24,7 +24,7 @@ Low numeracy is estimated to have similar or potentially higher costs to individ
 <div>
   <iframe id="inlineFrameExample"
       title="Inline Frame Example"
-      width="2000"
+      width="800"
       height="600"
       src="surface_math.html"
       frameBorder="0"
@@ -42,7 +42,7 @@ Current research suggests that learning difficulties rarely occur in isolation a
 <div>
   <iframe id="inlineFrameExample"
       title="Inline Frame Example"
-      width="2000"
+      width="800"
       height="600"
       src="surface_math_reading_left.html"
       frameBorder="0"
@@ -77,4 +77,4 @@ This is the middle of the brain, try moving it around!
 For more information about the science of dyscalculia, see our list of [**Publications**](/publications) and 
 **Prof. Pinheiro-Chagas'** slides for the event **Neuroscience in Action** on Sep 30th 2022 below:
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/dUqlwmsnU9En9J?hostedIn=slideshare&page=upload" width="900" height="500" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="center"></iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/dUqlwmsnU9En9J?hostedIn=slideshare&page=upload" width="1100" height="620" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="center"></iframe>
