@@ -65,7 +65,7 @@ Current research suggests that learning difficulties rarely occur in isolation a
 
 
 
-**How to see the brains**:
+**How to read the brains**:
 <img src="brain_anatomy.png" width="600" class="center">
 
 <!--
