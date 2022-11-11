@@ -4,7 +4,7 @@ title: Early predictors of math
 ---
 ## Early predictos of math abillities 
 
-One of the main goals of the [**Math Neuroscience and Education Program**](/math_program/) is to **identify children at risk** for math learning differences *before elementary school*. We believe that understanding the ***root causes*** of math challenges will better inform [effective interventions](/interventions). 
+One of the main goals of the [**Math Neuroscience and Education Program**](/math_program/) is to **identify children at risk** for math learning differences *before elementary school*. We believe that understanding the ***root causes*** of math challenges *early* in the development will better inform [effective interventions](/interventions). 
 
 In order to acomplish this goal, we are going to develop a *web-based assessment platform* specifically designed to be child-friendly and deployable in large scale. This platoform will host a variety of gamified tasks that have been shown to be robust predictors of math achievement in children *(**math primitives**)*. 
 
