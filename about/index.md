@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Math Cognition UCSF
+title: About
 ---
 
 # Math Cognition UCSF 

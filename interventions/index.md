@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Math interventions"
+title: Math interventions
 ---
 ## Math Interventions
 

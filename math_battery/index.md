@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Math assessment"
+title: Math assessment
 ---
 ## UCSF Dyscalculia Subtyping Battery
 

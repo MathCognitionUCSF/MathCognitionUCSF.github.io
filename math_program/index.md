@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Math Program"
+title: Math Program
 ---
 ## Math Neuroscience and Education Program<br>UCSF Dyslexia Center
 

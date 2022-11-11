@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "What is dyscalculia?"
+title: What is dyscalculia?
 ---
 ## What is dyscalculia? 
 **Developmental dyscalculia** is a specific learning difficulty affecting the acquisition of elementary mathematical skills, such as:

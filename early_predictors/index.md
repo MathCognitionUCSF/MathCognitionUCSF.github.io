@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "What is dyscalculia?"
+title: Early predictors of math
 ---
 ## Early predictos of math abillities 
 
