@@ -12,7 +12,7 @@ Our goals:
 * **Discover** the neural basis of different subtypes of math differences.
 * **Develop** neuroscience-based interventions specifically tailored to individual profiles.
 
-<img src="assets/math_program_fig.png" width="900" class="center">
+<img src="assets/math_program_fig.png" width="900" class="image_medium">
 
 <!--
 <picture>

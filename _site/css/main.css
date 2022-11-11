@@ -43,3 +43,18 @@ ul.posts li { list-style: none; }
   margin-right: auto;
   width: 65%;
 }
+
+
+.image_medium {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+}
+
+.image_large {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+}
