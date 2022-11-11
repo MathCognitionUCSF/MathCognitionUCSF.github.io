@@ -21,6 +21,8 @@ Low numeracy is estimated to have similar or potentially higher costs to individ
 <img src="dys_year.png" width="800" class="center">
 
 #### Explore the most active brain regions for elementary math:
+*(**try changing "inflated" to "pial"**)*
+
 <div>
   <iframe id="inlineFrameExample"
       title="Inline Frame Example"
