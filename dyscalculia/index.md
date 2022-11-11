@@ -50,6 +50,24 @@ Current research suggests that learning difficulties rarely occur in isolation a
   </iframe>
 </div>
 
+**Explor the maps across brain slices**:
+
+<div>
+  <iframe id="inlineFrameExample"
+      title="Inline Frame Example"
+      width="400"
+      height="350"
+      src="slices_combined3.html"
+      frameBorder="0"
+      class="center">
+  </iframe>
+</div>
+
+
+
+**How to see the brains**:
+<img src="brain_anatomy.png" width="600" class="center">
+
 <!--
 **Note that left hemisphere contains many more regions dedicated to reading!**
 
@@ -67,6 +85,11 @@ This is the middle of the brain, try moving it around!
   </iframe>
 </div>
 -->
+
+**Summary of the main regions engaged during math reasoning**:
+
+<img src="math_model.png" width="800" class="center">
+
 
 
 ### Currently, there is no consensus about: 
