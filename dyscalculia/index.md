@@ -52,7 +52,7 @@ Current research suggests that learning difficulties rarely occur in isolation a
   </iframe>
 </div>
 
-**Explor the maps across brain slices**:
+**Explore the maps across brain slices**:
 
 <div>
   <iframe id="inlineFrameExample"
