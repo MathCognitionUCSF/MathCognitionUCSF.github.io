@@ -6,9 +6,9 @@ title: Math Program
 
 ### Specific Aims 
 We are establishing a new **Math Neuroscience and Education Program** within the [UCSF Dyslexia Center](http://dyslexia.ucsf.edu) in order to better understand, prevent, and alleviate math difficulties. This program has three main goals: 
-* **Identify** children at risk for math learning differences before elementary school.
-* **Discover** the neural bases of different subtypes of dyscalculia. 
-* **Develop** neuroscience-based interventions specifically tailored to individual profiles.
+* [**Identify**](/early_predictors) children at risk for math learning differences before elementary school.
+* [**Discover**](/dyscalculia) the neural bases of different subtypes of dyscalculia. 
+* [**Develop**](/interventions) neuroscience-based interventions specifically tailored to individual profiles.
 
 ### How?
 Traditionally, research in this domain has been limited to a small number of specific brain regions and focused only on cognitive weaknesses. On the other hand, our framework encompasses the **whole brain** network and aims to discover the potential **cognitive and emotional strengths** of children with dyscalculia. We plan to use a **multimethodological approach**, combining data from:
@@ -21,6 +21,7 @@ Traditionally, research in this domain has been limited to a small number of spe
 
 ### What do we need to accomplish our goals? 
 We plan to create a variety of technological products that can be deployed on a large scale and combined with additional collaborative initiatives with the UCSF Dyslexia Center: 
-* **Multitudes**: A web-based assessment platform with child-friendly gamified battery of tests to investigate elementary math abilities. This goal of this platform is to identify children at risk for dyscalculia, to characterize the individual math difficulties profiles and to measure the efficacy of interventions. 
-* **Bench to School**: A Math Intervention APP based on neuroscientific findings from our Program.
-* **Math Teacher Workshops**: Train math teachers about the neural basis of math abilities, as well as how to use the web-based assessment platform and Math Intervention APP.
+* **Multitudes**: A [web-based assessment platform](/early_predictors) with child-friendly gamified battery of tests to investigate elementary math abilities. This goal of this platform is to identify children at risk for dyscalculia, to characterize the individual math difficulties profiles and to measure the efficacy of interventions. 
+* **Bench to School**: A [Math Intervention APP](/interventions) based on neuroscientific findings from our Program.
+* **Math Teacher Workshops**: Train math teachers about the [neural basis of math abilities](/dyscalculia/), as well as how to use the [web-based assessment platform](/early_predictors) and [Math Intervention APP](/interventions).
+
