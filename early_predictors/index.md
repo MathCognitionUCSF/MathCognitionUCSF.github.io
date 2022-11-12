@@ -11,7 +11,7 @@ In order to acomplish this goal, we are going to develop a *web-based assessment
 
 <img src="early_predictors.png" width="2000" class="image_large">
 
-We are also going to include some new experimental tasks that we belive constitute the basis for human ***symbolic reasoning*** *(i.e. reading, math, music, programming)*. One of our hypothesis is that these ***logical primities*** will be powerful measures to explain the co-occurences between ***math*** and ***reading*** challenges. 
+We are also going to include some new experimental tasks that we belive constitute the *cognitive start-up tools* for human ***symbolic reasoning*** *(i.e. reading, math, music, programming)*. One of our hypothesis is that these ***logical primities*** will be powerful measures to explain the co-occurences between ***math*** and ***reading*** challenges. 
 
 ## References
 
