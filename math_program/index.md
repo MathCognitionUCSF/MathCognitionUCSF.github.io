@@ -14,7 +14,7 @@ We are establishing a new **Math Neuroscience and Education Program** within the
 Traditionally, research in this domain has been limited to a small number of specific brain regions and focused only on cognitive weaknesses. On the other hand, our framework encompasses the **whole brain** network and aims to discover the potential **cognitive and emotional strengths** of children with dyscalculia. We plan to use a **multimethodological approach**, combining data from:
 * **Neuroimaging** (functional magnetic resonance imaging - fMRI, white matter tractography - DTI).
 * **Neuropsychology** (standardized tests of attention, memory, executive functions).
-* **Physiology** (heart rate, respiration)
+* **Physiology** (heart rate, respiration, heart rate variability)
 * **Education** (standardized tests of academic achievement)
 * **Socioeconomics** (socioeconomical status, first language)
 * **Emotional** (general anxiety, math anxiety and depression questionnaires)
