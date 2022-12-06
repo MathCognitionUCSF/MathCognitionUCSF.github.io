@@ -45,7 +45,7 @@
         <p>If there are <strong>more red dots</strong>, press the letter J 
         as fast as you can.</p>
         <div style='width: 700px;'>
-        <div style='float: center;'><img src='img/red_blue.png'></img>
+        <div style='float: center;'><img src='img/dots_10_15.png'></img>
         </div>
         <p>Press any key to begin.</p>
       `,
@@ -55,9 +55,28 @@
 
     /* define trial stimuli array for timeline variables */
     var test_stimuli = [
-      { stimulus: "img/red_blue.png",  correct_response: 'f'},
-      { stimulus: "img/red_blue.png",  correct_response: 'j'}
+    { stimulus: 'img/dots_10_15.png',  correct_response: 'j'},
+    { stimulus: 'img/dots_10_20.png',  correct_response: 'j'},
+    { stimulus: 'img/dots_10_25.png',  correct_response: 'j'},
+    { stimulus: 'img/dots_10_30.png',  correct_response: 'j'},
+    { stimulus: 'img/dots_15_10.png',  correct_response: 'f'},
+    { stimulus: 'img/dots_15_20.png',  correct_response: 'j'},
+    { stimulus: 'img/dots_15_25.png',  correct_response: 'j'},
+    { stimulus: 'img/dots_15_30.png',  correct_response: 'j'},
+    { stimulus: 'img/dots_20_10.png',  correct_response: 'f'},
+    { stimulus: 'img/dots_20_15.png',  correct_response: 'f'},
+    { stimulus: 'img/dots_20_25.png',  correct_response: 'j'},
+    { stimulus: 'img/dots_20_30.png',  correct_response: 'j'},
+    { stimulus: 'img/dots_25_10.png',  correct_response: 'f'},
+    { stimulus: 'img/dots_25_15.png',  correct_response: 'f'},
+    { stimulus: 'img/dots_25_20.png',  correct_response: 'f'},
+    { stimulus: 'img/dots_25_30.png',  correct_response: 'j'},
+    { stimulus: 'img/dots_30_10.png',  correct_response: 'f'},
+    { stimulus: 'img/dots_30_15.png',  correct_response: 'f'},
+    { stimulus: 'img/dots_30_20.png',  correct_response: 'f'},
+    { stimulus: 'img/dots_30_25.png',  correct_response: 'f'},
     ];
+
 
     /* define fixation and test trials */
     var fixation = {
@@ -89,7 +108,7 @@
     var test_procedure = {
       timeline: [fixation, test],
       timeline_variables: test_stimuli,
-      repetitions: 5,
+      repetitions: 1,
       randomize_order: true
     };
     timeline.push(test_procedure);
