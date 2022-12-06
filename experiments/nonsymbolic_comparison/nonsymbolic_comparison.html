@@ -24,7 +24,7 @@
     /* preload images */
     var preload = {
       type: jsPsychPreload,
-      images: ['img/blue.png', 'img/red_blue.png']
+      images: ['img/red_blue.png']
     };
     timeline.push(preload);
 
@@ -39,10 +39,10 @@
     var instructions = {
       type: jsPsychHtmlKeyboardResponse,
       stimulus: `
-        <p>In this experiment, you will compare numbers. Clouds of dots will appear in the center 
-        of the screen.</p><p>If the number of <strong>red dots</strong> is <strong>larger</strong>, 
-        press the letter J on the keyboard as fast as you can.</p>
-        <p>If the number of <strong>blue dots</strong> is <strong>larger</strong>, press the letter F
+        <p>In this experiment, you will compare numbers. A cloud of dots will appear in the center 
+        of the screen.</p><p>If there are <strong>more blue dots</strong>, 
+        press the letter F on the keyboard as fast as you can.</p>
+        <p>If there are <strong>more red dots</strong>, press the letter J 
         as fast as you can.</p>
         <div style='width: 700px;'>
         <div style='float: center;'><img src='img/red_blue.png'></img>
