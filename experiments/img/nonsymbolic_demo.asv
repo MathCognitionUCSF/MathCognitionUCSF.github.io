@@ -34,3 +34,70 @@ for i = 1:size(allcombs,1)
 end
 
 writetable(table(list), 'list.csv')
+
+
+
+
+
+
+
+
+
+
+num1 = 10:5:30;
+num2 = 10:5:30;
+
+allcombs = allcomb(num1,num2);
+allcombs = allcombs(allcombs(:,1)./allcombs(:,2)~=1,:);
+
+p = nsidedpoly(1000, 'Center', [0 0], 'Radius', 2.r);
+plot(p, 'FaceAlpha', 0)
+
+list = {};
+for i = 1:size(allcombs,1)
+
+    figure('units', 'normalized', 'outerposition', [0 0 .35 .35]) % [0 0 .6 .3]
+    subplot(1,2,1)  
+    v11 = zscore(rand(allcombs(i,1),1,1));
+    v12 = zscore(rand(allcombs(i,1),1,1));
+
+    plot(v11, v12, '.', 'MarkerSize', 30, 'Color', 'k')
+    hold on
+    plot(p)
+    axis square
+    axis off
+    set(gcf,'color','w');
+    set(gca,'color','w');
+    subplot(1,2,2)    
+    v21 = zscore(rand(allcombs(i,2),1,1));
+    v22 = zscore(rand(allcombs(i,2),1,1));
+    plot(v21,v22, '.', 'MarkerSize', 30, 'Color', 'k')
+    hold on
+    plot(p, 'FaceAlpha', 0, )
+    axis square
+    axis off
+    set(gcf,'color','w');
+    set(gca,'color','w');
+
+    filename = ['dots', '_', num2str(allcombs(i,1)), '_', num2str(allcombs(i,2)), '.png'];
+    if allcombs(i,1) > allcombs(i,2)
+       resp = 'f';
+    else
+       resp = 'j';
+    end
+
+    trial = sprintf('%s%s%s%s%s%s%s%s%s%s', '{ stimulus: ', "'", 'img/', filename, "'", ',  correct_response: ', "'", resp, "'", '},');
+
+
+    list = [list; trial];
+    f = gcf;
+    exportgraphics(f,filename,'Resolution',100)
+    close all
+end
+
+
+
+
+
+
+axis equal
