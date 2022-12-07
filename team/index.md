@@ -23,4 +23,4 @@ title: Math Cognition UCSF
 
 * **[Rian Bogley](https://profiles.ucsf.edu/rian.bogley) - Database Architect**
 
-    * 
+    * Rian graduated from UC Santa Barbara in 2018 with a B.S. in Biology. He is currently the ALBA Lab and Dyslexia Center's Database Architect after having been a Clinical Research Coordinator with the team for over 3 years. Now, he primarily focuses on the development, implementation, and maintenance of more sophisticated database systems for both teams by utilizing his relevant experience in database systems such as REDCap, LAVA, Excel, Qualtrics, and PACS.
