@@ -56,6 +56,11 @@
     /* define trial stimuli array for timeline variables */
     var test_stimuli = [
     { stimulus: 'img/dots_10_15.png',  correct_response: 'j'},
+    ];
+
+    
+    /* var test_stimuli = [
+    { stimulus: 'img/dots_10_15.png',  correct_response: 'j'},
     { stimulus: 'img/dots_10_20.png',  correct_response: 'j'},
     { stimulus: 'img/dots_10_25.png',  correct_response: 'j'},
     { stimulus: 'img/dots_10_30.png',  correct_response: 'j'},
@@ -76,7 +81,6 @@
     { stimulus: 'img/dots_30_20.png',  correct_response: 'f'},
     { stimulus: 'img/dots_30_25.png',  correct_response: 'f'},
     ];
-
 
     /* define fixation and test trials */
     var fixation = {
@@ -125,7 +129,7 @@
 
         return `<p>You responded correctly on ${accuracy}% of the trials.</p>
           <p>Your average response time was ${rt}ms.</p>
-          <p>Press any key to complete the experiment. Thank you!</p>`;
+          <p>Click <a href="/experiments">here</a> to complete the experiment. Thank you!</p>`;
 
       }
     };
