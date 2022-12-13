@@ -7,11 +7,6 @@
     <script src="https://unpkg.com/@jspsych/plugin-image-keyboard-response@1.1.2"></script>
     <script src="https://unpkg.com/@jspsych/plugin-preload@1.1.2"></script>
     <script src="stimuli.js"></script>
-    <!-- jsPsychSheet library -->
-    <script src="https://brain2ai.github.io/jsPsychSheet/jspsychsheet.js"></script>
-    <link rel="stylesheet" href="https://brain2ai.github.io/jsPsychSheet/jspsychsheet.css">
-    <!-- jQuery -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link href="https://unpkg.com/jspsych@7.3.1/css/jspsych.css" rel="stylesheet" type="text/css" />
   </head>
   <body></body>
@@ -19,9 +14,8 @@
 
     /* initialize jsPsych */
     var jsPsych = initJsPsych({
-      on_finish: function () {
-      url = "https://script.google.com/macros/s/AKfycbx8hvfThoaUoSYK8N5H4A40t8vPREdWwcd9zwG245znNw_3vx12v9D5GvwuMlzRXIdZdA/exec";
-      jsPsychSheet.uploadData(url, jsPsych.data.get().csv())
+      on_finish: function() {
+        jsPsych.data.get().localSave('csv','mydata3.csv');
       }
     });
 
@@ -131,9 +125,6 @@
 
     /* start the experiment */
     jsPsych.run(timeline);
-
-
-    
 
 
     
