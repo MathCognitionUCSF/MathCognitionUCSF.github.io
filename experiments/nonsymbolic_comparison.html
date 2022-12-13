@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My experiment</title>
+    <title>Non-symbolic comparison</title>
     <script src="https://unpkg.com/jspsych@7.3.1"></script>
     <script src="https://unpkg.com/@jspsych/plugin-html-keyboard-response@1.1.2"></script>
     <script src="https://unpkg.com/@jspsych/plugin-image-keyboard-response@1.1.2"></script>
@@ -19,8 +19,9 @@
 
     /* initialize jsPsych */
     var jsPsych = initJsPsych({
-      on_finish: function() {
-        jsPsych.data.get().localSave('csv','mydata3.csv');
+      on_finish: function () {
+      url = "https://script.google.com/macros/s/AKfycbx8hvfThoaUoSYK8N5H4A40t8vPREdWwcd9zwG245znNw_3vx12v9D5GvwuMlzRXIdZdA/exec";
+      jsPsychSheet.uploadData(url, jsPsych.data.get().csv())
       }
     });
 
