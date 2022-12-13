@@ -15,10 +15,9 @@
     /* initialize jsPsych */
     var jsPsych = initJsPsych({
       on_finish: function() {
-        jsPsych.data.get().localSave('csv','mydata3.csv');
+        jsPsych.data.displayData();
       }
     });
-
 
     /* create timeline */
     var timeline = [];
@@ -59,9 +58,24 @@
     /* define fixation and test trials */
     var fixation = {
       type: jsPsychHtmlKeyboardResponse,
-      stimulus: jsPsych.timelineVariable('fixation'),
+      stimulus: '<div style="font-size:60px;">+</div>',
       choices: "NO_KEYS",
-      trial_duration: jsPsych.timelineVariable('fixation_duration'),
+      trial_duration: function(){
+        return jsPsych.randomization.sampleWithoutReplacement([250, 500, 750, 1000, 1250, 1500, 1750, 2000], 1)[0];
+      },
+      data: {
+        task: 'fixation'
+      }
+    };
+
+    /* define fixation and test trials */
+    var fixation = {
+      type: jsPsychHtmlKeyboardResponse,
+      stimulus: '<div style="font-size:60px;">+</div>',
+      choices: "NO_KEYS",
+      trial_duration: function(){
+        return jsPsych.randomization.sampleWithoutReplacement([250, 500, 750, 1000, 1250, 1500, 1750, 2000], 1)[0];
+      },
       data: {
         task: 'fixation'
       }
@@ -81,21 +95,9 @@
       }
     };
 
-
-    /* define fixation and test trials */
-    var blank = {
-      type: jsPsychHtmlKeyboardResponse,
-      stimulus: ' ',
-      choices: "NO_KEYS",
-      trial_duration: 500,
-      data: {
-        task: 'fixation'
-      }
-    };
-
     /* define test procedure */
     var test_procedure = {
-      timeline: [fixation, test, blank],
+      timeline: [fixation, test],
       timeline_variables: test_stimuli,
       repetitions: 1,
       randomize_order: true
@@ -114,24 +116,14 @@
 
         return `<p>You responded correctly on ${accuracy}% of the trials.</p>
           <p>Your average response time was ${rt}ms.</p>
-          <p>Press any key to complete the experiment. Thank you!</p>`;
+          <p>Click <a href="/experiments">here</a> to complete the experiment. Thank you!</p>`;
 
       }
     };
-
-
     timeline.push(debrief_block);
-
 
     /* start the experiment */
     jsPsych.run(timeline);
 
-
-    
-
-
   </script>
 </html>
-
-
-
