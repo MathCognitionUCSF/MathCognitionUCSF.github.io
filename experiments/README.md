@@ -1,2 +1,2 @@
-# nosymbolic_comparison
+# nonsymbolic_comparison
 
