@@ -19,9 +19,8 @@
 
     /* initialize jsPsych */
     var jsPsych = initJsPsych({
-      on_finish: function () {
-      url = "https://script.google.com/macros/s/AKfycbx8hvfThoaUoSYK8N5H4A40t8vPREdWwcd9zwG245znNw_3vx12v9D5GvwuMlzRXIdZdA/exec";
-      jsPsychSheet.uploadData(url, jsPsych.data.get().csv())
+      on_finish: function() {
+        jsPsych.data.get().localSave('csv','mydata3.csv');
       }
     });
 
