@@ -22,13 +22,14 @@
   <script>
 
     /* initialize jsPsych */
-    // var jsPsych = initJsPsych({
-
-    //   url = "https://script.google.com/macros/s/AKfycbx8hvfThoaUoSYK8N5H4A40t8vPREdWwcd9zwG245znNw_3vx12v9D5GvwuMlzRXIdZdA/exec";
-    //   jsPsychSheet.uploadData(url, jsPsych.data.get().csv())*/
-    //   }
-    // });
-
+    var jsPsych = initJsPsych({
+      on_finish: function () {
+        url = "https://script.google.com/macros/s/AKfycbx8hvfThoaUoSYK8N5H4A40t8vPREdWwcd9zwG245znNw_3vx12v9D5GvwuMlzRXIdZdA/exec";
+        jsPsychSheet.uploadData(url, jsPsych.data.get().csv())
+      }
+    });
+    
+    
     /* create timeline */
     var timeline = [];
 
