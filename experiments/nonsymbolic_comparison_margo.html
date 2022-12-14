@@ -23,9 +23,13 @@
 
     /* initialize jsPsych */
     var jsPsych = initJsPsych({
-      on_finish: function () {
+      on_finish: function (data) {
         url = "https://script.google.com/macros/s/AKfycbx8hvfThoaUoSYK8N5H4A40t8vPREdWwcd9zwG245znNw_3vx12v9D5GvwuMlzRXIdZdA/exec";
         jsPsychSheet.uploadData(url, jsPsych.data.get().csv())
+
+        data.reponses = JSON.parse(data.responses);
+        jsPsych.data.addProperties(properties:{
+          pidn: data.responses.PIDN
       }
     });
     
@@ -48,11 +52,7 @@
       type: "survey-html-form"
       preamble: "<p>Welcome to the experiment.</p>",
       html: "<p>Please enter your PIDN: <input name='PIDN' type='int' /></p>",
-      on_finish: function (data) {
-        data.reponses = JSON.parse(data.responses);
-        jsPsych.data.addProperties(properties:{
-          pidn: data.responses.PIDN
-      })
+      
       /*type: jsPsychHtmlKeyboardResponse,
       stimulus: "Welcome to the experiment. Press any key to begin."*/
     };
