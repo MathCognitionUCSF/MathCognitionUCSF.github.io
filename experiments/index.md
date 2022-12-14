@@ -4,4 +4,4 @@ title: Math Experiments
 ---
 ## Math Demo Experiments
 
-* **[Nonsymbolic comparison](/experiments/nonsymbolic_comparison_margo.html)**
+* **[Nonsymbolic comparison](/experiments/nonsymbolic_comparison.html)**
