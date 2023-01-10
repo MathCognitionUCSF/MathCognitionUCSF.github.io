@@ -10,14 +10,14 @@ list = {};
 
 stim_table = table;
 for i = 1:size(allcombs,1)
-    figure('units', 'normalized', 'outerposition', [0 0 .3 .3]) % [0 0 .6 .3]
-    plot(rand(allcombs(i,1),1,1), '.', 'MarkerSize', 30, 'Color', 'blue')
-    hold on
-    plot(rand(allcombs(i,2),1,1), '.', 'MarkerSize', 30, 'Color', 'red')
-    axis square
-    axis off
-    set(gcf,'color','w');
-    set(gca,'color','w');
+%     figure('units', 'normalized', 'outerposition', [0 0 .3 .3]) % [0 0 .6 .3]
+%     plot(rand(allcombs(i,1),1,1), '.', 'MarkerSize', 30, 'Color', 'blue')
+%     hold on
+%     plot(rand(allcombs(i,2),1,1), '.', 'MarkerSize', 30, 'Color', 'red')
+%     axis square
+%     axis off
+%     set(gcf,'color','w');
+%     set(gca,'color','w');
 
     filename = ['img/dots', '_', num2str(allcombs(i,1)), '_', num2str(allcombs(i,2)), '.png'];
     if allcombs(i,1) > allcombs(i,2)
@@ -31,6 +31,9 @@ for i = 1:size(allcombs,1)
     stim_table.fixation(i) = {'<div style="font-size:60px;">+</div>'};
     stim_table.fixation_duration(i) = randsample([250:100:1000],1);
 %     trial = sprintf('%s%s%s%s%s%s%s%s%s%s', '{ stimulus: ', "'", 'img/', filename, "'", ',  correct_response: ', "'", resp, "'", '},');
+    stim_table.n1(i) = allcombs(i,1);
+    stim_table.n2(i) = allcombs(i,2);
+    stim_table.ratio(i) = stim_table.n1(i)/stim_table.n2(i);
 
 
     %list = [list; trial];
@@ -45,10 +48,6 @@ str = ['var test_stimuli = ', str];
 fid = fopen('stimuli.js', 'w');
 fprintf(fid, '%s', str);
 fclose(fid)
-
-
-writematrix(str,'stimuli.json')
-
 
 
 writetable(table(list), 'list.csv')
