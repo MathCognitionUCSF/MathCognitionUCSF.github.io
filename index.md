@@ -8,8 +8,8 @@ title: Math Cognition UCSF
 
 We are a new [**multidisciplinary team**](/team) at UCSF studying the typical and atypical development of math abilities.\
 Our goals:
-* [**Identify**](/early_predictors) children at risk for math difficulties prior to elementary school.
-* [**Discover**](/dyscalculia) the neural basis of different subtypes of math differences.
+* [**Identify**](/early_predictors) children at risk for math difficulties and follow their trajectory. 
+* [**Discover**](/dyscalculia) the cognitive profiles and neural basis of different math difficulties.
 * [**Develop**](/interventions) neuroscience-based interventions specifically tailored to individual profiles.
 
 <img src="assets/math_program_fig.png" width="900" class="image_medium">
