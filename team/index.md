@@ -17,10 +17,10 @@ title: Math Cognition UCSF
 
     * Mariah L. Pospisil, M.Ed, is a lifelong educator and advocate for students with dyslexia, dyscalculia, and related learning differences. After receiving her A.B. in Psychology from Harvard College, Mariah earned her teaching credential and Master of Education as an Education Specialist, Mild/Moderate from Notre Dame de Namur University. A longtime mathematics educator, instructional coach, and academic program leader, Mariah’s work includes individual intervention and group instruction, curriculum and pedagogy development, and professional development for educators focused on math learning differences. Mariah now serves as the Learning Interventions Applied Research Manager for the UCSF Dyslexia Center and is a member of the math cognition team.
 
-* **[Margo Kersey](https://profiles.ucsf.edu/margo.kersey) - Research Data Analyst**
+* **[Margo Kersey, BS](https://profiles.ucsf.edu/margo.kersey) - Research Data Analyst**
 
     * Margo earned her B.S. in Applied Mathematics from UCLA and has a background in psychology and neuroscience research. She is currently a research coordinator at the UCSF Dyslexia Center on the Math Cognition team. Her main focus is leveraging data science to improve the identification of  cognitive profiles in children with math and reading difficulties, and coordinating the development of our new math-focused program. She is also involved in processing neuroimaging data, specifically diffusion tensor imaging (DTI).
 
-* **[Rian Bogley](https://profiles.ucsf.edu/rian.bogley) - Database Architect**
+* **[Rian Bogley, BS](https://profiles.ucsf.edu/rian.bogley) - Database Architect**
 
     * Rian graduated from UC Santa Barbara in 2018 with a B.S. in Biology. He is currently the ALBA Lab and Dyslexia Center's Database Architect after having been a Clinical Research Coordinator with the team for over 3 years. Now, he primarily focuses on the development, implementation, and maintenance of more sophisticated database systems for both teams by utilizing his relevant experience in database systems such as REDCap, LAVA, Excel, Qualtrics, and PACS.
