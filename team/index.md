@@ -24,3 +24,7 @@ title: Math Cognition UCSF
 * **[Rian Bogley, BS](https://profiles.ucsf.edu/rian.bogley) - Database Architect**
 
     * Rian graduated from UC Santa Barbara in 2018 with a B.S. in Biology. He is currently the ALBA Lab and Dyslexia Center's Database Architect after having been a Clinical Research Coordinator with the team for over 3 years. Now, he primarily focuses on the development, implementation, and maintenance of more sophisticated database systems for both teams by utilizing his relevant experience in database systems such as REDCap, LAVA, Excel, Qualtrics, and PACS.
+
+* **Daniel Quintana, BS - UCSF Medical Student**
+
+   * Daniel is a medical student at UCSF School of Medicine who is interested in understanding the dynamics of neural circuits responsible for speech production and mathematical cognition. He earned his BA degree in Molecular and Cell Biology with emphasis in neurobiology from UC Berkeley, where he researched how different cell types in the primary visual cortex modulate behavior using optogenetics. Currently, he is studying the plasticity mechanisms that take place on neural populations in patients who experience speech and mathematical deficits due to brain tumors.  
